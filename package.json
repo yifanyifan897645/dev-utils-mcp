@@ -1,0 +1,55 @@
+{
+  "name": "dev-utils-mcp",
+  "version": "0.1.0",
+  "mcpName": "io.github.yifanyifan897645/dev-utils",
+  "description": "MCP server with 12 essential developer utilities — UUID, Base64, hashing, JWT decode, JSON diff, regex test. Zero config.",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "dev-utils-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "developer-tools",
+    "uuid",
+    "base64",
+    "hash",
+    "jwt",
+    "json-diff",
+    "regex",
+    "devtools",
+    "utilities",
+    "claude",
+    "cursor",
+    "windsurf",
+    "ai-tools",
+    "encode",
+    "decode",
+    "convert"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yifanyifan897645/dev-utils-mcp"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "tsx": "^4.19.0",
+    "@types/node": "^22.0.0"
+  }
+}
