@@ -125,10 +125,7 @@ Compare: the average MCP server costs 8,000-30,000 tokens. Use [mcp-checkup](htt
 - [mcp-checkup](https://www.npmjs.com/package/mcp-checkup) — MCP setup health analyzer
 - [dev-utils-mcp](https://www.npmjs.com/package/dev-utils-mcp) — Developer utilities
 - [codescan-mcp](https://www.npmjs.com/package/codescan-mcp) — Codebase health scanner
-
----
-
-Want to build and monetize your own MCP servers? I compiled everything I learned into a [development kit](https://ifdian.net/item/fdfddfb02c1311f1ae625254001e7c00) — templates, market research, and promotion playbooks.
+- [deadlink-checker-mcp](https://www.npmjs.com/package/deadlink-checker-mcp) — Dead link detector
 
 ## License
 
