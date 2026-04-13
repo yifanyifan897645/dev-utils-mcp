@@ -1,6 +1,6 @@
 {
   "name": "dev-utils-mcp",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "mcpName": "io.github.yifanyifan897645/dev-utils",
   "description": "MCP server with 12 essential developer utilities — UUID, Base64, hashing, JWT decode, JSON diff, regex test. Zero config.",
   "main": "dist/index.js",
